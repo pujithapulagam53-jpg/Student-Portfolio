@@ -1,26 +1,25 @@
-# Projects
+# My Academic and Personal Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: Student Portfolio Website
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+**Problem:** Students need a simple way to showcase their skills, academic background, projects, and achievements.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+**Solution:** Developed a personal portfolio website to present my profile and project details in one place.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+**Technologies:** HTML, CSS, Git, GitHub
+
+**My Contribution:** Created the website structure, designed the pages using CSS, and uploaded the project to GitHub.
+
+**Possible Improvement:** Add JavaScript for interactive features and make the website more accessible and responsive.
+
+## Project 2: Student Record Management System
+
+**Problem:** Maintaining student details manually can be time-consuming and may lead to errors.
+
+**Solution:** Planned a student record management system to organize student names, IDs, and academic details.
+
+**Technologies:** Python, SQL, Database Management
+
+**My Contribution:** Worked on planning the system, identifying the required student fields, and designing the basic database structure.
+
+**Possible Improvement:** Add a user login system, search functionality, and secure data management.
