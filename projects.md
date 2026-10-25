@@ -18,9 +18,9 @@ Add clear, honest descriptions of academic and personal projects.
 
 ## Project template
 ### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Problem:**Student Portfolio Website**
+- **Solution:****Solution:** Developed a personal portfolio website using HTML and CSS to showcase my profile, skills, educational details, and projects in one place.**
+- **Technologies:** HTML, CSS, Git, GitHub**
+- **My contribution:**Created the website structure using HTML, styled the pages using CSS, and uploaded the project to GitHub.**
+- **What I learned:**Learned how to build a website using HTML and CSS and manage project files using Git and GitHub.**
+- **Future improvement:** Add JavaScript for interactive features, improve the website's responsiveness, and include more projects and achievements.**
