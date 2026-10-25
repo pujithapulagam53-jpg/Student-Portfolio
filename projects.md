@@ -1,26 +1,19 @@
-# Projects
+# My Academic and Personal Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: Student Portfolio Website
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** Students need a simple way to showcase their skills, education, and projects.
+- **Solution:** Developed a personal portfolio website to present my profile and project details.
+- **Technologies:** HTML, CSS, Git, GitHub
+- **My contribution:** Created the website structure and styled the pages using CSS.
+- **What I learned:** Learned to build web pages and manage project files using Git and GitHub.
+- **Future improvement:** Add JavaScript features and improve the website's responsiveness.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## Project 2: Student Record Management System (Planned)
 
-## Project template
-### Project Name
-- **Problem:**Student Portfolio Website**
-- **Solution:****Solution:** Developed a personal portfolio website using HTML and CSS to showcase my profile, skills, educational details, and projects in one place.**
-- **Technologies:** HTML, CSS, Git, GitHub**
-- **My contribution:**Created the website structure using HTML, styled the pages using CSS, and uploaded the project to GitHub.**
-- **What I learned:**Learned how to build a website using HTML and CSS and manage project files using Git and GitHub.**
-- **Future improvement:** Add JavaScript for interactive features, improve the website's responsiveness, and include more projects and achievements.**
+- **Problem:** Managing student records manually can be time-consuming.
+- **Solution:** Planned a system to organize student names, IDs, and academic details.
+- **Technologies:** Python, SQL
+- **My contribution:** Identified the required student fields and planned the basic database structure.
+- **What I learned:** Learned about database design and project planning.
+- **Future improvement:** Add search functionality, user login, and secure data storage.
