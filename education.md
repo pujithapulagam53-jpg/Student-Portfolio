@@ -2,9 +2,8 @@
 
 ## Bachelor of Technology (B.Tech)
 - **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Institution:** Aditya University
+- **Study period:** 2025–2029
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -14,5 +13,10 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Certificates
+- ORACLE ACADEMY- Database foundations - ENGLISH
+- Cambridge University- Cambridge English Empower B2 Level course
+- Cisco Networking Academy - Python , C Programming
+- INFOSYS SPRING BOARD - CPP, DATA STRUCTURES
+- LinkedIN Learning certificates
+- Participated in SIH 2026 (Hackathon)

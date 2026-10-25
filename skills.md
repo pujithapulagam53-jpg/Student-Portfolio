@@ -1,11 +1,13 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
+- c
+- python
+- cpp
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Java — Beginner
+- Python —  Intermediate
+- C — Intermediate
 
 ## Web Technologies
 - HTML
@@ -21,3 +23,8 @@ Replace these examples with skills you can confidently discuss in an interview.
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+
+## Learning Goals
+- Practise Git branching, commits, and pull requests.
+- Improve programming and problem-solving skills.
+- Build more academic and personal projects.
