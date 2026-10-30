@@ -27,12 +27,15 @@ Open `index.html` in a web browser. No backend or installation is required.
 ## Contribution file requirements
 **Your file should include:**
 - P.Pujitha/25B11DS454
+  
 **Three Git Commands and What They Do**
 1. `git init` – Initializes a new Git repository.
 2. `git add .` – Stages all changed files for commit.
 3. `git commit -m "message"` – Saves changes to the local repository.
+   
 **Purpose of GitHub**
 GitHub is a platform used to store, manage, and collaborate on code online.
+
 **One Benefit of Using Branches**
 Branches allow developers to work on new features independently without affecting the main project.
 
